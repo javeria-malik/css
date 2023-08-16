@@ -1,0 +1,11 @@
+body{
+    background-color: blueviolet;
+}
+#first{
+    background-color: brown;
+}/*for reprent the id*/
+.red{
+    background-color: blue;
+    color:bisque;
+}/*becuase this class is assign to two section so it is applied to both white color assign to text*/
+
