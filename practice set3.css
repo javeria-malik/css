@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height:60px;
+    background-color: black;
+    color:white;
+    border:2px solid white
+
+}
+.content{
+    background-color:rgb(114, 114, 15);
+    height:90vh;
+    color:white;
+    margin: 4px;
+    padding: 4px;
+    text-align: center;
+
+}
+footer{
+    background-color: gray;
+    height: 60px;
+}
+.class{
+    text-align: center;
+}
